@@ -61,18 +61,6 @@ App móvil para buscar películas usando la API externa de OMDb, aplicada a prá
 ### 📈 Análisis RFM de Clientes para eCommerce · SQL + Power BI + Python (2025)
 Segmentación de clientes basada en Recencia, Frecuencia y Valor Monetario. Visualización en Power BI y limpieza con Python.
 
----
-
-## 📂 Repositorios sugeridos
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| `automatizar_ejemplo.py` | Script con Selenium para automatizar búsquedas en Google | Python · Selenium |
-| `titulares.py` | Web scraping de noticias de CNN Español | Python · BeautifulSoup |
-| `proyecto_rfm` | Segmentación de clientes con análisis RFM | Python · SQL · Power BI |
-| `tic-tac-toe` | Juego de tres en raya con React JS | React · JavaScript |
-
----
 
 ## 📫 ¿Hablamos?
 
