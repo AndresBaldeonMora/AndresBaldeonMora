@@ -96,21 +96,19 @@ Soy **desarrollador de software** con experiencia en aplicaciones de escritorio 
 </table>
 
 
+
 ## 📈 Mi actividad en GitHub
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=AndresBaldeonMora&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Estadísticas de GitHub"
-/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBaldeonMora&theme=tokyo-night&hide_border=true"
-  alt="Gráfica de actividad de GitHub"
+  src="https://github-readme-stats.vercel.app/api?username=AndresBaldeonMora&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="Estadísticas de Andrés Baldeón en GitHub"
+  width="480"
 />
 
 </div>
+
 
 
 ## 🐍 Mis contribuciones en movimiento
