@@ -1,4 +1,3 @@
-<!-- Perfil de GitHub de AndresBaldeonMora | Diseño profesional alineado con LinkedIn -->
 <div align="center">
 
 # ¡Hola! Soy Andrés Baldeón Mora 👋
@@ -68,7 +67,6 @@ Soy **desarrollador de software** con experiencia en aplicaciones de escritorio 
 
 ## 🚀 Proyectos destacados
 
-<!-- Solo se incluyen proyectos observados en tu GitHub o mencionados en tu perfil. -->
 
 <table>
 <tr>
@@ -90,20 +88,17 @@ Soy **desarrollador de software** con experiencia en aplicaciones de escritorio 
 <a href="https://github.com/AndresBaldeonMora/Calculator">Ver repositorio ↗</a>
 </td>
 <td width="50%" valign="top">
-<h3>📱 MovieFinder</h3>
-<p>Proyecto móvil con React Native y consumo de la API de OMDb.</p>
-<p><em>Proyecto mencionado en tu perfil: añade un enlace público cuando esté disponible.</em></p>
+<h3>🌐 Portafolio personal</h3>
+<p>Una selección de mi trayectoria profesional, tecnologías y proyectos de desarrollo.</p>
+<a href="https://andresbaldeon.vercel.app/">Visitar portafolio ↗</a>
 </td>
 </tr>
 </table>
-
-> **Próxima mejora recomendada:** destacar un proyecto público de C# + WPF (MVVM) y otro de Python + SQL Server. Serían los más representativos de tu experiencia actual. No publiques código ni información confidencial de clientes.
 
 ## 📈 Mi actividad en GitHub
 
 <div align="center">
 
-<!-- Estas tarjetas dependen de servicios externos y pueden fallar por límites de uso. -->
 <img height="165" alt="Lenguajes más usados en repositorios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBaldeonMora&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <img alt="Gráfica de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBaldeonMora&theme=tokyo-night&hide_border=true&area=true" width="98%" />
@@ -119,7 +114,6 @@ Soy **desarrollador de software** con experiencia en aplicaciones de escritorio 
   <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/AndresBaldeonMora/AndresBaldeonMora/output/github-snake.svg" width="100%" />
 </picture>
 
-<sub>La serpiente aparecerá después de ejecutar por primera vez el workflow incluido.</sub>
 
 </div>
 
@@ -138,6 +132,6 @@ Soy **desarrollador de software** con experiencia en aplicaciones de escritorio 
 
 [**🌐 Portafolio**](https://andresbaldeon.vercel.app/) · [**💼 LinkedIn**](https://www.linkedin.com/in/andresbaldeonmora/) · [**✉️ Correo**](mailto:andres.baldeon2024@gmail.com)
 
-<sub>Hecho con ☕, código y curiosidad. Lima, Perú 🇵🇪</sub>
+<sub>Lima, Perú 🇵🇪 · Software Development · Automation · Data</sub>
 
 </div>
