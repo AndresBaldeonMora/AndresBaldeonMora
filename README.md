@@ -95,15 +95,23 @@ Soy **desarrollador de software** con experiencia en aplicaciones de escritorio 
 </tr>
 </table>
 
+
 ## 📈 Mi actividad en GitHub
 
 <div align="center">
 
-<img height="165" alt="Lenguajes más usados en repositorios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBaldeonMora&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AndresBaldeonMora&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Estadísticas de GitHub"
+/>
 
-<img alt="Gráfica de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBaldeonMora&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBaldeonMora&theme=tokyo-night&hide_border=true"
+  alt="Gráfica de actividad de GitHub"
+/>
 
 </div>
+
 
 ## 🐍 Mis contribuciones en movimiento
 
